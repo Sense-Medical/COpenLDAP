@@ -1,0 +1,4 @@
+module COpenLDAP [system] {
+    header "COpenLDAP.h"
+    link "ldap"
+}
